@@ -10,7 +10,9 @@ body {
   align-items: center;
   padding-top: 40px;
   padding-bottom: 40px;
-  background-color: #f5f5f5;
+
+  color: #f5f5f5;
+  background: linear-gradient(0.375turn, #041C82, #00122B, #440784);
 }
 
 .form-signin {
@@ -45,4 +47,5 @@ body {
   margin-bottom: 10px;
   border-top-left-radius: 0;
   border-top-right-radius: 0;
+
 }
